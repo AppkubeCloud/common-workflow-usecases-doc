@@ -8,7 +8,7 @@ Common Workflow Service- Usecases Repository
 | Module | Usecase Title | Prototype link | Tech Flow  | Usecase Doc | TestCase
 | - | - | - | - |  - |  - |
 | Projects |  |  |  |
-|  | Add New Project |  |   | | 
-|  | Add Workflow |  |   | | 
-|  | Add usecase |  |   | | 
-|  | Assign task |  |   | | 
+|  | Add New Project |[Usecase Doc](https://github.com/AppkubeCloud/common-workflow-usecases-doc/blob/main/Projects/Create%20Project%20UC.md)   |  | | 
+|  | Add Workflow |[Usecase Doc](https://github.com/AppkubeCloud/common-workflow-usecases-doc/blob/main/Projects/Add%20Workflow%20to%20Project%20UC.md)  |   | | 
+|  | Add usecase |[Usecase Doc](https://github.com/AppkubeCloud/common-workflow-usecases-doc/blob/main/Projects/Add%20Use%20Case%20to%20workflow%20UC.md)  |   | | 
+|  | Assign task |[Usecase Doc](https://github.com/AppkubeCloud/common-workflow-usecases-doc/blob/main/Projects/Assign%20Task%20to%20user%20UC.md)  |   | | 
