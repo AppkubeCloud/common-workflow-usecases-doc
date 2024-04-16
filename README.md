@@ -21,4 +21,4 @@ Common Workflow Service- Usecases Repository
 |  | Review Page | |   |[Usecase Doc](https://github.com/AppkubeCloud/common-workflow-usecases-doc/blob/main/Projects/Assign%20Task%20to%20user%20UC.md) |
 |  | Add workflow | |   |[Usecase Doc](https://github.com/AppkubeCloud/common-workflow-usecases-doc/blob/main/Projects/Add%20Workflow%20Use%20Case.md)  | 
 |  | Create Template | |   |[Usecase Doc](https://github.com/AppkubeCloud/common-workflow-usecases-doc/blob/main/Projects/Create%20Template%20Use%20Case.md)  |
-|  | Resource Pool | |   |[Usecase Doc](https://github.com/AppkubeCloud/common-workflow-usecases-doc/blob/main/Projects/Assign%20Task%20to%20user%20UC.md)  | [Test CAse Assign task](https://github.com/AppkubeCloud/common-workflow-usecases-doc/blob/main/Projects/Assign%20task%20tc.md)
+|  | Resource Pool | |   |[Usecase Doc](https://github.com/AppkubeCloud/common-workflow-usecases-doc/blob/main/Projects/Resource%20Pool%20Use%20Case.md)  | 
